@@ -1,0 +1,3 @@
+[submodule "foldername"]
+	path = foldername
+	url = git@github.com:BernhardPosselt/submodule.git
